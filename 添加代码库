@@ -1,0 +1,8 @@
+1.  在github建立对应的（新的）代码库
+2. 新建目录或者在已有目录 git init
+3. git add 文件
+4. git commit -m "附带的message"  若提示输入 账号 邮箱 按着提示做
+5. git remote add origin 新代码库的git地址
+6. git push -u(第一次) origin master 
+    
+    
